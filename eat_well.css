@@ -1,0 +1,63 @@
+a {
+  color: orange;
+}
+
+p {
+  line-height: 1.75;
+}
+
+input{
+  margin-right: 25px;
+}
+
+fieldset{
+  display: inline;
+}
+
+.welcome {
+  margin-top: 50px;
+  text-align: center;
+}
+
+.button {
+  margin: 0 auto;
+  width: 100%;
+}
+
+.img {
+  margin: 0px;
+  width: 100%;
+}
+
+.button-box {
+  margin: 35px auto;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
+
+.button-box a {
+  display: inline-block;
+  width: 33%;
+}
+
+.res {
+  border-top: 1px solid black;
+  display: grid;
+  grid-template-columns: 150px 1fr;
+}
+
+.res_img {
+  border-right: 1px solid black;
+  padding-right: 10px;
+}
+
+.back_button {
+  width: 15%;
+  padding: 10px;
+}
+
+.menu_head {
+  border: 1px solid black;
+  text-align: center;
+}
